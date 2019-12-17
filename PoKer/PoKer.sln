@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoKer", "PoKer\PoKer.csproj", "{D28C5E28-7BFB-4CF0-8A28-53150B9021AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28C5E28-7BFB-4CF0-8A28-53150B9021AE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D28C5E28-7BFB-4CF0-8A28-53150B9021AE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D28C5E28-7BFB-4CF0-8A28-53150B9021AE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D28C5E28-7BFB-4CF0-8A28-53150B9021AE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

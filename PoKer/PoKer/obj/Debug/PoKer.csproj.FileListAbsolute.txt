@@ -1,0 +1,5 @@
+/Users/chentiejun/Desktop/未命名文件夹/PoKer/PoKer/obj/Debug/PoKer.csprojAssemblyReference.cache
+/Users/chentiejun/Desktop/未命名文件夹/PoKer/PoKer/bin/Debug/PoKer.exe
+/Users/chentiejun/Desktop/未命名文件夹/PoKer/PoKer/bin/Debug/PoKer.pdb
+/Users/chentiejun/Desktop/未命名文件夹/PoKer/PoKer/obj/Debug/PoKer.exe
+/Users/chentiejun/Desktop/未命名文件夹/PoKer/PoKer/obj/Debug/PoKer.pdb
