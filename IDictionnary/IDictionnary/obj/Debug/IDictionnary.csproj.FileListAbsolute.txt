@@ -1,0 +1,5 @@
+/Users/chentiejun/Desktop/12-24age/IDictionnary/IDictionnary/bin/Debug/IDictionnary.exe
+/Users/chentiejun/Desktop/12-24age/IDictionnary/IDictionnary/bin/Debug/IDictionnary.pdb
+/Users/chentiejun/Desktop/12-24age/IDictionnary/IDictionnary/obj/Debug/IDictionnary.csprojAssemblyReference.cache
+/Users/chentiejun/Desktop/12-24age/IDictionnary/IDictionnary/obj/Debug/IDictionnary.exe
+/Users/chentiejun/Desktop/12-24age/IDictionnary/IDictionnary/obj/Debug/IDictionnary.pdb
