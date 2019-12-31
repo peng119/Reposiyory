@@ -1,0 +1,4 @@
+/Users/chentiejun/Desktop/12-24age/Everage/Everage/bin/Debug/Everage.exe
+/Users/chentiejun/Desktop/12-24age/Everage/Everage/bin/Debug/Everage.pdb
+/Users/chentiejun/Desktop/12-24age/Everage/Everage/obj/Debug/Everage.exe
+/Users/chentiejun/Desktop/12-24age/Everage/Everage/obj/Debug/Everage.pdb
